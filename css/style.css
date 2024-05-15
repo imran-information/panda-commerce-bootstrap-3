@@ -1,11 +1,15 @@
 .Panda-nav-bg-color {
     background-color: #f597bb;
-    margin-bottom: 100px;
 }
 
 .slaider-bg-color {
     background-color: #fceae8;
     border-radius: 10px;
+    margin-top: 130px;
+}
+
+.text-align {
+    text-align: justify;
 }
 
 .price-color {
@@ -43,4 +47,21 @@
     height: 400px;
     background-color: #fceae8;
     margin-top: 100px;
+}
+
+footer {
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    background-color: #1b1f22;
+
+}
+
+.fotoer-end {
+    color: white;
+    font-weight: 600;
+
+
 }
