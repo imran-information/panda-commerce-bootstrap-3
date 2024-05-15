@@ -20,3 +20,16 @@
     padding: 9px 25px;
     font-weight: 600;
 }
+
+.categoris {
+    margin-top: 80px;
+}
+
+.categoris h1 {
+    color: white;
+
+}
+
+.categoris img {
+    width: 100px;
+}
