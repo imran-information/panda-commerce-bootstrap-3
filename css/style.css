@@ -1,0 +1,22 @@
+.Panda-nav-bg-color {
+    background-color: #f597bb;
+    margin-bottom: 100px;
+}
+
+.slaider-bg-color {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.price-color {
+    color: #ff136f;
+}
+
+.button-bg-colo {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-weight: 600;
+}
